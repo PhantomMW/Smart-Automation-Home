@@ -1,0 +1,6 @@
+#ifndef MCAL_UART_UART_CFG_H_
+#define MCAL_UART_UART_CFG_H_
+
+#define UART_u32_BAUD_RATE 9600UL
+
+#endif /* MCAL_UART_UART_CFG_H_ */
